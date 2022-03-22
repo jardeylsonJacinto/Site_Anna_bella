@@ -8,6 +8,10 @@ Site fictício sobre modelos.
  
 ## Tecnologias usadas
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Layout do projeto
+![annaBella](https://user-images.githubusercontent.com/93053356/159547989-3c55d857-12ec-4a16-bec9-88ca1ab8a652.jpg)
 
 ### Jardeylson jacinto cabral
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jardeylson-jacinto-769769156)  
