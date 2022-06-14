@@ -7,8 +7,8 @@ Site fictício sobre modelos.
   estruturar e posicionar as tags HTML.
  
 ## Tecnologias usadas
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/default.asp)
+[![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 
 ## Layout do projeto
 ![annaBella](https://user-images.githubusercontent.com/93053356/159547989-3c55d857-12ec-4a16-bec9-88ca1ab8a652.jpg)
